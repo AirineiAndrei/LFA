@@ -1,0 +1,15 @@
+0
+2
+0 2
+9
+0 1 a
+1 2 a
+2 1 a
+0 3 b
+3 0 b
+3 4 a
+2 3 b
+4 4 a
+4 4 b
+
+//0 and 2 are equivalent
