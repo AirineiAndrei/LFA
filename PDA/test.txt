@@ -1,0 +1,19 @@
+// PDA for 0^n1^n , n >= 0 with final state
+
+3
+0 1 2
+2
+0 1
+2
+A Z
+0
+Z
+1
+2
+6
+0 0 Z 0 AZ
+0 0 A 0 AA
+0 # Z 1 Z
+0 # A 1 A
+1 1 A 1 #
+1 # Z 2 Z
